@@ -11,7 +11,7 @@
 - 💬 Ask me about ...Almost nothing... I'm still in a road to be good in something...
 - 📫 How to reach me: ... please e-mail me vilmondes@ufu.br
 - 😄 Pronouns: human being
-- ⚡ Fun fact: I wanted to be a popularizer of technology and science
+- ⚡ Fun fact: I wanted to be a influencer of technology and science
 -->
 
 <div>
