@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I’m currently working on My master's degree in Analog and Mixed Signal IC Design
-- 🌱 I’m currently learning VHDL description language
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with VHDL code
+- 🔭 MSc in Analog and Mixed Signal IC Design
+- 🌱 Graduated in Electronics and Telecommunication engineering 
+- 👯 I’m looking to collaborate on IC design ...
+- 🤔 I’m looking for help in open source IC design...
 - 💬 Ask me about ...Almost nothing... I'm still in a road to be good in something...
 - 📫 How to reach me: ... please e-mail me vilmondes@ufu.br
 -->
